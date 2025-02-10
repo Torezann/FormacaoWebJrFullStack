@@ -1,4 +1,4 @@
-# FormacaoWebJrFullStack
+# Formação Web Jr FullStack
 # 🚀 Desafios Semanais
 
 Este repositório foi criado para acompanhar minha jornada de desenvolvimento através de desafios semanais. A cada semana, receberei uma nova tarefa com dificuldade crescente, visando aprimorar minhas habilidades e preparar-me para o desafio final: a criação de um projeto completo em grupo.
